@@ -9,7 +9,7 @@
 - [The New Statesman](https://www.newstatesman.com/)
 - [New Left Review](https://newleftreview.org/)
 - [Novara Media](https://www.novaramedia.com)
-- [Red Peoper](https://www.redpepper.org.uk/)
+- [Red Pepper](https://www.redpepper.org.uk/)
 - [Socialist Worker](https://socialistworker.co.uk/)
 - [Tribune](https://tribunemag.co.uk/)
 
